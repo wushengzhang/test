@@ -21,3 +21,5 @@ safas
 after modification in branch t1, return to master and modify
 
 after merge the t1 to master
+
+after pull master, remove t1 branch(t1 branch was deleted by other push)
